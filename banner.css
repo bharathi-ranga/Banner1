@@ -1,0 +1,145 @@
+html {
+  background-color: indigo;
+  margin: 0;
+}
+body {
+  padding: 1rem 3rem;
+  text-align: center;
+  font-family: "Oswald", sans-serif;
+}
+div {
+  margin: 1rem 0 1rem 0;
+  color: white;
+}
+li {
+  list-style: none;
+}
+.header table {
+  text-align: left;
+  margin: auto;
+  padding: 0;
+  border-spacing: 0;
+}
+.title {
+  color: rgb(230, 42, 42);
+  font-size: 4rem;
+  font-weight: bold;
+  font-family: "Staatliches", cursive;
+  margin: 0;
+  letter-spacing: 0.2rem;
+}
+.title-child {
+  color: white;
+  font-size: 1.2rem;
+  margin: 0;
+}
+
+.first {
+  width: 100%;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.first-left {
+  background: orange;
+  width: 40%;
+  height: 280px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 1.5rem;
+}
+.first-right {
+  background: rgb(104, 190, 240);
+  width: 40%;
+  height: 280px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+
+.second {
+  background-color: rgb(240, 82, 121);
+  width: 80%;
+  margin: auto;
+  margin-top: 1rem;
+}
+
+.third {
+  width: 75%;
+  margin: 2rem auto 0;
+  background-color: rgb(104, 190, 240);
+  text-align: justify;
+  padding: 2rem;
+}
+.second td,
+.third td {
+  width: 50%;
+  padding: 0.4rem;
+}
+.fourth-left {
+  background-color: rgb(240, 82, 121);
+  width: 40%;
+  height: 280px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 2rem;
+}
+.fourth-right {
+  background-color: orange;
+  width: 40%;
+  height: 280px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+.fifth {
+  background-color: rgb(104, 190, 240);
+  width: 80%;
+  margin: auto;
+  text-align: left;
+}
+.sixth {
+  background-color: orange;
+  width: 80%;
+  margin: auto;
+  margin-top: 2rem;
+}
+
+.sixth table,
+.fifth table {
+  width: 100%;
+  padding: 2rem;
+  text-align: left;
+}
+.sixth-table {
+  width: 70%;
+  text-align: left;
+}
+.sixth-table-two {
+  width: 30%;
+  text-align: center;
+}
+
+.seven-left {
+  background: rgb(104, 190, 240);
+  width: 40%;
+  height: 380px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  line-height: 2rem;
+}
+.seven-right {
+  background: rgb(240, 82, 121);
+  width: 40%;
+  height: 380px;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+}
+.seven-right-list {
+  font-size: 2rem;
+  font-weight: 550;
+  font-family: "Staatliches", cursive;
+}
